@@ -1,9 +1,9 @@
 # Mohammad Nayemul Islam
 
-## 🧑‍💻 Aspiring Software Engineer | Competitive Programmer | First Learner
+## 🧑‍💻 Aspiring Software Engineer | Competitive Programmer | Fast Learner
 
 Hi! I’m **Mohammad Nayemul Islam**, a **Computer Science & Engineering graduate** from **International Islamic University Chittagong**.  
-I am passionate about programming, problem-solving, and building software that makes a real impact. I thrive on challenges that push me to think critically and creatively.Over the years, I’ve immersed myself in **competitive programming**, solving thousands of problems, participating in hundreds of contests, and earning notable achievements:
+I am passionate about programming, problem-solving, and building software that makes a real impact. I thrive on challenges that push me to think critically and creatively. Over the years, I’ve immersed myself in **competitive programming**, solving thousands of problems, participating in hundreds of contests, and earning notable achievements:
 
 - 🧩 **Expert on Codeforces** (Max Rating: 1730)  
 - ⭐ **5-Star Coder on CodeChef** (Max Rating: 2029)  
@@ -15,7 +15,13 @@ Beyond competitive programming, I’ve taught **Data Structures and Algorithms**
 
 I love exploring new technologies, learning continuously, and applying my skills to solve real-world problems. My goal is to grow as a **Software Engineer** who contributes to innovative solutions and meaningful projects.  
 
+You can also check out my **CV** here:  
+<a href="https://drive.google.com/drive/folders/1cOyI6twcNiCg3CG6t1EAKmgL78TIzuuZ?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%20CV-4169E1?style=for-the-badge&logo=google-drive&logoColor=white" alt="View CV"/>
+</a>
+
 ---
+
 ### ⚙️ Tools & Technologies
 
 <p align="center">
@@ -44,6 +50,7 @@ I love exploring new technologies, learning continuously, and applying my skills
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
 </div>
 
+---
 
 
 ### 🤝 Connect with Me
@@ -67,5 +74,3 @@ I love exploring new technologies, learning continuously, and applying my skills
   </a>
 
 </div>
-
----
